@@ -2,9 +2,9 @@
 
 ```javascript
 let me = {
-  "languages": ["HTML", "CSS", "JavaScript", "Python", "MongoDB"],
-  "frameworks": ["Node.js", "Svelte", "socket.io"],
-  "currentlyLearning": ["Next.js"],
+  "languages": ["HTML", "CSS", "JavaScript"],
+  "frameworks": ["none"],
+  "currentlyLearning": ["ReactJS"],
   "contact": {
     "discord": "zzehv"
   },
