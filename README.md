@@ -3,8 +3,8 @@
 ```javascript
 let me = {
   "languages": ["HTML", "CSS", "JavaScript"],
-  "frameworks": ["Svelte"],
-  "currentlyLearning": ["ReactJS"],
+  "frameworks": ["Svelte", "React"],
+  "currentlyLearning": ["NextJS"],
   "contact": {
     "discord": "zzehv"
   },
