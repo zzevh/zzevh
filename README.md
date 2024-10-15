@@ -12,3 +12,5 @@ let me = {
   "location": "Poland"
 }
 ```
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-graham&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
