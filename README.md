@@ -7,7 +7,7 @@ let me = {
   "currentlyLearning": ["Next.js", "React"],
   "contact": {
     "discord": "zzehv",
-    "mail": "contact@bkrupk.com"
+    "mail": "contact@bkrupka.com"
   },
   "pronouns": ["He","Him"],
   "location": "Poland"
