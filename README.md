@@ -4,7 +4,7 @@
 let me = {
   "languages": ["HTML", "CSS", "JavaScript"],
   "frameworks": ["React", "Next.js", "Svelte"],
-  "currentlyLearning": ["React", "Next.js"],
+  "currentlyLearning": ["React", "JavaScript"],
   "contact": {
     "discord": "zzehv",
     "mail": "contact@bkrupka.com"
